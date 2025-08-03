@@ -134,3 +134,5 @@ Follow these steps to set up and run the application:
 ## License
 
 This project is open-source and available for educational and non-commercial use. Please attribute the original authors if you build upon this work.
+
+## Remember to put your Gemini API key 😊😊
